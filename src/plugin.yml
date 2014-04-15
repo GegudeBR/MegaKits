@@ -1,0 +1,192 @@
+name: FightKits
+version: 1.0
+main: me.gegude.FightPvP
+commands:
+  kits:
+     description: Veja os Kits!
+  archer:
+     description: Kit Archer!
+     permission: pvp.archer
+     permission-message: Voce nao tem o kit Archer!
+  switcher:
+     description: Kit Switcher!
+     permission: pvp.switcher
+     permission-message: Voce nao tem o kit Switcher!
+  fisherman:
+     description: Kit Fisherman!
+     permission: pvp.fisherman
+     permission-message: Voce nao tem o kit Fisherman!
+  anchor:
+     description: Kit Anchor!
+     permission: pvp.anchor
+     permission-message: Voce nao tem o kit Anchor!
+  stomper:
+     description: Kit Stomper!
+     permission: pvp.stomper
+     permission-message: Voce nao tem o kit Stomper!
+  camel:
+     description: Kit Camel!
+     permission: pvp.camel
+     permission-message: Voce nao tem o kit Camel!
+  tank:
+     description: Kit Tank!
+     permission: pvp.tank
+     permission-message: Voce nao tem o kit Tank!
+  viper:
+     description: Kit Viper!
+     permission: pvp.viper
+     permission-message: Voce nao tem o kit Viper!
+  snail:
+     description: Kit Snail!
+     permission: pvp.snail
+     permission-message: Voce nao tem o kit Snail!
+  berserker:
+     description: Kit Berserker!
+     permission: pvp.berserker
+     permission-message: Voce nao tem o kit Berserker!
+  cookiemonster:
+     description: Kit CookieMonster!
+     permission: pvp.cookiemonster
+     permission-message: Voce nao tem o kit CookieMonster!
+  flash:
+     description: Kit Flash!
+     permission: pvp.flash
+     permission-message: Voce nao tem o kit Flash!
+  timelord:
+     description: Kit Timelord!
+     permission: pvp.timelord
+     permission-message: Voce nao tem o kit Timelord!
+  viking:
+     description: Kit Viking!
+     permission: pvp.viking
+     permission-message: Voce nao tem o kit Viking!
+  turtle:
+     description: Kit Turtle!
+     permission: pvp.turtle
+     permission-message: Voce nao tem o kit Turtle!
+  frosty:
+     description: Kit Frosty!
+     permission: pvp.frosty
+     permission-message: Voce nao tem o kit Frosty!
+  vampire:
+     description: Kit Vampire!
+     permission: pvp.vampire
+     permission-message: Voce nao tem o kit Vampire!
+  milkman:
+     description: Kit Milkman!
+     permission: pvp.milkman
+     permission-message: Voce nao tem o kit Milkman!
+  rider:
+     description: Kit Rider!
+     permission: pvp.rider
+     permission-message: Voce nao tem o kit Rider!
+  hg:
+     description: Kit HG!
+     permission: pvp.hg
+     permission-message: Voce nao tem o kit HG!
+  hulk:
+     description: Kit Hulk!
+     permission: pvp.hulk
+     permission-message: Voce nao tem o kit Hulk!
+  kangaroo:
+     description: Kit Kangaroo!
+     permission: pvp.kangaroo
+     permission-message: Voce nao tem o kit Kangaroo!
+  specialist:
+     description: Kit Specialist!
+     permission: pvp.specialist
+     permission-message: Voce nao tem o kit Specialist!
+  spectre:
+     description: Kit Spectre!
+     permission: pvp.spectre
+     permission-message: Voce nao tem o kit Spectre!
+  poseidon:
+     description: Kit Poseidon!
+     permission: pvp.poseidon
+     permission-message: Voce nao tem o kit Poseidon!
+  monk:
+     description: Kit Monk!
+     permission: pvp.monk
+     permission-message: Voce nao tem o kit Monk!
+  lifeline:
+     description: Kit Lifeline!
+     permission: pvp.lifeline
+     permission-message: Voce nao tem o kit Lifeline!
+  urgal:
+     description: Kit Urgal!
+     permission: pvp.urgal
+     permission-message: Voce nao tem o kit Urgal!
+  vacuum:
+     description: Kit Vacuum!
+     permission: pvp.vacuum
+     permission-message: Voce nao tem o kit Vacuum!
+  phantom:
+     description: Kit Phantom!
+     permission: pvp.phantom
+     permission-message: Voce nao tem o kit Phantom!
+  grappler:
+     description: Kit Grappler!
+     permission: pvp.grappler
+     permission-message: Voce nao tem o kit Grappler!
+  endermage:
+     description: Kit Endermage!
+     permission: pvp.endermage
+     permission-message: Voce nao tem o kit Endermage!
+  thor:
+     description: Kit Thor!
+     permission: pvp.thor
+     permission-message: Voce nao tem o kit Thor!
+  salamander:
+     description: Kit Salamander!
+     permission: pvp.salamander
+     permission-message: Voce nao tem o kit Salamander!
+  gladiator:
+     description: Kit Gladiator!
+     permission: pvp.gladiator
+     permission-message: Voce nao tem o kit Gladiator!
+  soup:
+     description: Pegue um refill!
+  suicide:
+     description: Se Morra!
+  bc:
+     description: BroadCast!
+     permission: pvp.bc
+     permission-message: Voce nao pode fazer isso!
+  broadcast:
+     description: BroadCast -'
+     permission: pvp.bc
+     permission-message: Voce nao pode fazer isso!
+  admin:
+     description: Admin -'
+     permission: fight.staff
+     permission-message: Voce nao pode fazer isso!
+  new:
+     description: Resete o Kit!
+     permission: pvp.new
+     permission-message: Voce nao pode fazer isso!
+  day:
+     description: DIA!
+     permission: fight.staff
+     permission-message: Voce nao pode fazer isso!
+  feast:
+     description: Va para o feast = (
+  main:
+     description: Va para o main = (
+  pots:
+     description: Va para o pots = (
+  tell: 
+    description: /tell
+  msg: 
+    description: /msg
+  limparchat: 
+    description: Limpa o chati
+  tag:
+    description: Tags
+  head:
+    description: Pegue uma cabeça, se é q vc me endende
+  kick:
+    description: Kick
+  ban:
+    description: Ban
+  invsee:
+    description: Veja o inventario de um jogador
